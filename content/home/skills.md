@@ -21,9 +21,9 @@ feature:
   icon_pack: fas
   name: Project Management
 - description: 100%
-  icon: chart-line
+  icon: book
   icon_pack: fas
-  name: Statistics
+  name: Research
 - description: 10%
   icon: camera-retro
   icon_pack: fas

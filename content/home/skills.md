@@ -24,10 +24,10 @@ feature:
   icon: book
   icon_pack: fas
   name: Research
-- description: 10%
-  icon: camera-retro
+- description: 70%
+  icon: desktop
   icon_pack: fas
-  name: Photography
+  name: Technology
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"

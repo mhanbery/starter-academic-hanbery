@@ -27,7 +27,7 @@ education:
   courses:
   - course: Graduate Certificate in Instructional Design
     institution: University of Central Florida
-    year: In progress
+    year: Expected 2022
   - course: Master of Education
     institution: University of Florida
     year: 2007
